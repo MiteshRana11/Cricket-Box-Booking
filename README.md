@@ -1,6 +1,10 @@
 # Cricket-Box-Booking
 This Simple Online Sports Complex Booking System can be accessed by the Management Admin or Staff, Registered or Possible Clients, and to the Public. This project has an Admin Panel where the management manages the data in the system such as the list of the facilities. The Admin Panel can be accessed by 2 different user roles which are the Admin and the Staff. The Admin Users have the privilege to access all the features and functionalities on this side while the Staff User has only limited. The possible client can simply register their own account in order them to gain access to the booking feature of the system. Clients can book the facilities they wanted on their desired date as long as the dates do not complicate with the other bookings. The client-side has a booking list where their new and previously booked facilities are listed with details. In this system, Anonymous Visitors can explore the facilities and information about the system of the business.
 
+![Uploading image.png…]()
+
+https://www.sourcecodester.com/sites/default/files/images/oretnom23/scbs_public_facility_detailspng.png
+
 How to Run ??
 
 Requirements
