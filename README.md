@@ -68,11 +68,12 @@ This project makes booking facilities easier and ensures **no scheduling conflic
 ---
 
 ## 📸 Screenshot  
-👉 *(Add a screenshot of your project here for more appeal!)*  
+👉 *(A![WhatsApp Image 2025-08-20 at 19 45 13_82319c36](https://github.com/user-attachments/assets/e9eaca7b-c3e2-48a3-a34c-b3d392fd8ade)
+dd a screenshot of your project here for more appeal!)*  
 
 ---
 
 ## 👨‍💻 Author  
-Developed by **[Your Name](https://github.com/your-username)**  
+Developed by **[Mitesh Rana](https://github.com/Miteshrana11)**  
 
 ---
