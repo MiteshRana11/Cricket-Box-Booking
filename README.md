@@ -1,34 +1,78 @@
-# Cricket-Box-Booking
-This Simple Online Sports Complex Booking System can be accessed by the Management Admin or Staff, Registered or Possible Clients, and to the Public. This project has an Admin Panel where the management manages the data in the system such as the list of the facilities. The Admin Panel can be accessed by 2 different user roles which are the Admin and the Staff. The Admin Users have the privilege to access all the features and functionalities on this side while the Staff User has only limited. The possible client can simply register their own account in order them to gain access to the booking feature of the system. Clients can book the facilities they wanted on their desired date as long as the dates do not complicate with the other bookings. The client-side has a booking list where their new and previously booked facilities are listed with details. In this system, Anonymous Visitors can explore the facilities and information about the system of the business.
+# 🏏 Cricket Box Booking System  
 
-How to Run ??
+A **Simple Online Sports Complex Booking System** that allows **Admins, Staff, Registered Clients, and Guests** to interact with the platform.  
+This project makes booking facilities easier and ensures **no scheduling conflicts** between clients.  
 
-Requirements
+---
 
-#Download and Install any local web server such as XAMPP/WAMP.
+## ✨ Features  
 
-#Download the provided source code zip file. (download button is located below)
+### 👨‍💼 Admin & Staff Panel  
+- **Admin**
+  - Full control over system management  
+  - Manage facilities, bookings, and clients  
+- **Staff**
+  - Limited access to assist in managing bookings  
 
-Installation/Setup
+### 👤 Clients  
+- Register and log in to the system  
+- Book facilities on their desired date (no overlaps allowed)  
+- View their **booking history**  
 
-1.Open your XAMPP/WAMP's php.ini file and Enable/Uncomment the GD Library.
+### 🌐 Public / Guests  
+- Explore available facilities  
+- Learn about the system without registering  
 
-2.Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
+---
 
-3.Extract the downloaded source code zip file.
+## ⚡ Requirements  
+- Local Web Server (**XAMPP** / **WAMP**)  
+- PHP 7.x or higher  
+- MySQL Database  
+- Web Browser  
 
-4.If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
+---
 
-5.Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+## 🛠️ Installation / Setup Guide  
 
-6.Create a new database naming scbs_db.
+1. **Enable GD Library**  
+   - Open your XAMPP/WAMP’s `php.ini` file  
+   - Uncomment/enable the line for GD library  
 
-7.Import the provided SQL file. The file is known as scbs_db.sql located inside the database folder.
+2. **Start Services**  
+   - Open XAMPP/WAMP Control Panel  
+   - Start **Apache** and **MySQL**  
 
-8.Browse the Online Sports Complex Booking System in a browser. i.e. http://localhost/scbs/.
+3. **Prepare Project Files**  
+   - Extract the downloaded source code zip file  
+   - For **XAMPP** → paste into `htdocs` folder  
+   - For **WAMP** → paste into `www` folder  
 
-Default Admin Access
+4. **Database Setup**  
+   - Go to: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)  
+   - Create a new database named **`scbs_db`**  
+   - Import the SQL file: `database/scbs_db.sql`  
 
-Username: admin
+5. **Run the Project**  
+   - Open in browser:  
+     ```
+     http://localhost/scbs/
+     ```
 
-Password: admin123
+---
+
+## 🔑 Default Admin Login  
+- **Username:** `admin`  
+- **Password:** `admin123`  
+
+---
+
+## 📸 Screenshot  
+👉 *(Add a screenshot of your project here for more appeal!)*  
+
+---
+
+## 👨‍💻 Author  
+Developed by **[Your Name](https://github.com/your-username)**  
+
+---
